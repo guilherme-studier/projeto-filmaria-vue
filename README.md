@@ -1,4 +1,5 @@
-# filmaria
+# Filmaria
+Projeto prático desenvolvido no curso de Vue js: https://www.udemy.com/course/curso-vuejs-completo/
 
 ## Project setup
 ```
