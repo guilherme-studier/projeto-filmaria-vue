@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Desenvolver uma plataforma web para listagem de filmes disponível no curso Sujeito Programador: [API]](https://sujeitoprogramador.com/r-api/?api=filmes).
+Desenvolver uma plataforma web para listagem de filmes disponível no curso Sujeito Programador: [API](https://sujeitoprogramador.com/r-api/?api=filmes).
 
 ### Funcionalidades
 
